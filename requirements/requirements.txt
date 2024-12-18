@@ -1,0 +1,14 @@
+django>=3.0,<4.0
+djangorestframework>=3.11
+numpy>=1.19
+pandas>=1.1
+scikit-learn>=0.23
+tensorflow>=2.0
+keras>=2.3
+nltk>=3.5
+spacy>=3.0
+matplotlib>=3.1
+plotly>=4.9
+docker
+kubernetes
+google-cloud-translate
